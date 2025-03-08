@@ -1,10 +1,7 @@
 <h1 align="center">Hi , I'm Rehab Ahmed</h1>
 <h3 align="center">Front-end Developer || Aerospace Engineer</h3>
 <h3 align="center">Follow Me to get New Updates </h3>
-
-<!-- <p align="center">
-  <img src="" alt="Rehab Ahmed" width="200" height="200" style="border-radius: 50%;"/>
-</p> -->
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
