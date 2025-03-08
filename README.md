@@ -2,11 +2,12 @@
 <h3 align="center">Front-end Developer💻 || Aerospace Engineer🚀</h3>
 <h3 align="center">Follow Me to get New Updates </h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **khawasrehab@gmail.com**
+  -👯 I’m looking to collaborate on Open Source Projects
 
-- ⚡ Fun fact **I love space🌌🛸**
+  -📫 How to reach me **khawasrehab@gmail.com**
+
+  -⚡ Fun fact **I love space🌌🛸**
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
