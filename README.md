@@ -50,15 +50,3 @@
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehab-Ahmed2001&show_icons=true&theme=radical" alt="Rehab's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehab-Ahmed2001&theme=radical" alt="GitHub Streak" />
-</p>
-
----
