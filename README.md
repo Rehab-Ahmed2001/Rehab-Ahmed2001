@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Rehab+Ahmed;Front-End+Developer+💻;Aerospace+Engineer+🚀;Creative+and+Detail-Oriented+🌟" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Rehab+Ahmed;Front-End+Developer+%7C+React.js+-+Next.js;Aerospace+Engineer+🚀;Creative+and+Detail-Oriented+🌟" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -69,19 +69,4 @@
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Rehab-Ahmed2001/Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehab-Ahmed2001&repo=Portfolio&theme=radical" alt="Portfolio Project"/>
-  </a>
-  <a href="https://github.com/Rehab-Ahmed2001/star-tracker-ai" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehab-Ahmed2001&repo=star-tracker-ai&theme=radical" alt="Star Tracker AI"/>
-  </a>
-</p>
-
----
 
