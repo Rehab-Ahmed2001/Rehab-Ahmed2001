@@ -1,10 +1,13 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#5C6BC0;">Rehab Ahmed</span></h1>
-<h3 align="center">💻 Frontend Developer | React.js - Next.js</h3>
+<!-- =============================== -->
+<!-- 👋 Animated Intro Banner -->
+<!-- =============================== -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Rehab+Ahmed;Front-End+Developer+💻;Aerospace+Engineer+🚀;Creative+and+Detail-Oriented+🌟" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  Passionate about crafting responsive and user-friendly web interfaces, blending creativity with precision.  
-  <br/>
-  <b>Follow me for updates and new projects!</b>
+  <b>Building interactive, accessible, and visually engaging web experiences.</b>
 </p>
 
 ---
@@ -36,17 +39,49 @@
 
 ---
 
-### 🧠 Languages & Tools
+## 🧠 Languages & Tools
+
+### 🎨 Front-End
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/></a>
+</p>
+
+### 🧩 Tools & Design
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/></a>
+</p>
+
+### ⚙️ Others
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://github.com/Rehab-Ahmed2001/Portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehab-Ahmed2001&repo=Portfolio&theme=radical" alt="Portfolio Project"/>
+  </a>
+  <a href="https://github.com/Rehab-Ahmed2001/star-tracker-ai" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehab-Ahmed2001&repo=star-tracker-ai&theme=radical" alt="Star Tracker AI"/>
+  </a>
 </p>
+
+---
+
