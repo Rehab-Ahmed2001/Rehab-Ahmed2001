@@ -12,8 +12,9 @@
 
 ---
 
+<!-- 🖥️ Frontend Coding Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="400px" alt="Coding GIF" />
+  <img src="https://i.imgur.com/qZ9YdV8.gif" width="400px" alt="Frontend Coding Animation" />
 </div>
 
 ---
@@ -62,11 +63,4 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/></a>
 </p>
 
-### ⚙️ Others
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>
-</p>
 
