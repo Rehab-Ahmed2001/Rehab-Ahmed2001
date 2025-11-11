@@ -54,7 +54,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/></a>
 </p>
-### ⚙️ Others
+ ⚙️ Others
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino"/></a>
